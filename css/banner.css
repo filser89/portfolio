@@ -1,0 +1,31 @@
+.banner{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  height: 100vh;
+  background-size: cover;
+  background-position: bottom;
+  text-align: center;
+  text-shadow: 1px 1px rgba(240, 240, 240, 0.2)
+}
+
+.banner h1{
+  font-size: 45px;
+  color: white;
+}
+
+/*.btn-green {
+  background-color: #1EDD87;
+  display: inline-block;
+  color: white;
+  border: 1px solid rgb(20, 170, 98);
+  border-radius: 25px;
+  padding: 12px 24px;
+  text-transform: uppercase;
+}*/
+
+/*.btn-green:hover {
+  transform: translateY(-10px);
+}*/
+
